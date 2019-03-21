@@ -1,4 +1,4 @@
-package com.example.quiero_pan;
+package com.msideas.quieropan;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.quiero_pan", appContext.getPackageName());
+        assertEquals("com.msideas.quieropan", appContext.getPackageName());
     }
 }

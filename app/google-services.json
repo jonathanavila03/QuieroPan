@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "857249489040",
+    "firebase_url": "https://leafy-outrider-230214.firebaseio.com",
+    "project_id": "leafy-outrider-230214",
+    "storage_bucket": "leafy-outrider-230214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857249489040:android:5330a4729015cddf",
+        "android_client_info": {
+          "package_name": "com.msideas.quieropan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857249489040-nv2bb2646rs2vs1cgogauna1k9dtn59s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62Mhh6Ozbqf-Rq50VcwoaGqzkUO7HIh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

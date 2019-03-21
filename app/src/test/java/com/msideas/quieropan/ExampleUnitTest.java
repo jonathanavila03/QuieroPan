@@ -1,4 +1,4 @@
-package com.example.quiero_pan;
+package com.msideas.quieropan;
 
 import org.junit.Test;
 
